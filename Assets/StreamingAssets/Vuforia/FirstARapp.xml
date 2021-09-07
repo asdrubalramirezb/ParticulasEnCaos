@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="historia0" size="1.000000 1.327314" />
+    <ImageTarget name="historia4" size="1.000000 1.369690" />
+  </Tracking>
+</QCARConfig>

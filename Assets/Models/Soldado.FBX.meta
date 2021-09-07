@@ -1,0 +1,273 @@
+fileFormatVersion: 2
+guid: 7e7fc422ef5e15b459986b7004dc1f48
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: MixamoSoldierBiped_TurboSquid_001_2010
+    100002: SkinData_solder_mesh
+    100004: //RootNode
+    100006: Soldier
+    100008: Soldier Footsteps
+    100010: Soldier Head
+    100012: Soldier HeadNub
+    100014: Soldier L Calf
+    100016: Soldier L Clavicle
+    100018: Soldier L Finger0
+    100020: Soldier L Finger01
+    100022: Soldier L Finger02
+    100024: Soldier L Finger0Nub
+    100026: Soldier L Finger1
+    100028: Soldier L Finger11
+    100030: Soldier L Finger12
+    100032: Soldier L Finger1Nub
+    100034: Soldier L Finger2
+    100036: Soldier L Finger21
+    100038: Soldier L Finger22
+    100040: Soldier L Finger2Nub
+    100042: Soldier L Finger3
+    100044: Soldier L Finger31
+    100046: Soldier L Finger32
+    100048: Soldier L Finger3Nub
+    100050: Soldier L Finger4
+    100052: Soldier L Finger41
+    100054: Soldier L Finger42
+    100056: Soldier L Finger4Nub
+    100058: Soldier L Foot
+    100060: Soldier L Forearm
+    100062: Soldier L Hand
+    100064: Soldier L Thigh
+    100066: Soldier L Toe0
+    100068: Soldier L Toe0Nub
+    100070: Soldier L UpperArm
+    100072: Soldier Neck
+    100074: Soldier Neck1
+    100076: Soldier Pelvis
+    100078: Soldier R Calf
+    100080: Soldier R Clavicle
+    100082: Soldier R Finger0
+    100084: Soldier R Finger01
+    100086: Soldier R Finger02
+    100088: Soldier R Finger0Nub
+    100090: Soldier R Finger1
+    100092: Soldier R Finger11
+    100094: Soldier R Finger12
+    100096: Soldier R Finger1Nub
+    100098: Soldier R Finger2
+    100100: Soldier R Finger21
+    100102: Soldier R Finger22
+    100104: Soldier R Finger2Nub
+    100106: Soldier R Finger3
+    100108: Soldier R Finger31
+    100110: Soldier R Finger32
+    100112: Soldier R Finger3Nub
+    100114: Soldier R Finger4
+    100116: Soldier R Finger41
+    100118: Soldier R Finger42
+    100120: Soldier R Finger4Nub
+    100122: Soldier R Foot
+    100124: Soldier R Forearm
+    100126: Soldier R Hand
+    100128: Soldier R Thigh
+    100130: Soldier R Toe0
+    100132: Soldier R Toe0Nub
+    100134: Soldier R UpperArm
+    100136: Soldier Spine
+    100138: Soldier Spine1
+    100140: Soldier Spine2
+    100142: Soldier_mesh
+    400000: MixamoSoldierBiped_TurboSquid_001_2010
+    400002: SkinData_solder_mesh
+    400004: //RootNode
+    400006: Soldier
+    400008: Soldier Footsteps
+    400010: Soldier Head
+    400012: Soldier HeadNub
+    400014: Soldier L Calf
+    400016: Soldier L Clavicle
+    400018: Soldier L Finger0
+    400020: Soldier L Finger01
+    400022: Soldier L Finger02
+    400024: Soldier L Finger0Nub
+    400026: Soldier L Finger1
+    400028: Soldier L Finger11
+    400030: Soldier L Finger12
+    400032: Soldier L Finger1Nub
+    400034: Soldier L Finger2
+    400036: Soldier L Finger21
+    400038: Soldier L Finger22
+    400040: Soldier L Finger2Nub
+    400042: Soldier L Finger3
+    400044: Soldier L Finger31
+    400046: Soldier L Finger32
+    400048: Soldier L Finger3Nub
+    400050: Soldier L Finger4
+    400052: Soldier L Finger41
+    400054: Soldier L Finger42
+    400056: Soldier L Finger4Nub
+    400058: Soldier L Foot
+    400060: Soldier L Forearm
+    400062: Soldier L Hand
+    400064: Soldier L Thigh
+    400066: Soldier L Toe0
+    400068: Soldier L Toe0Nub
+    400070: Soldier L UpperArm
+    400072: Soldier Neck
+    400074: Soldier Neck1
+    400076: Soldier Pelvis
+    400078: Soldier R Calf
+    400080: Soldier R Clavicle
+    400082: Soldier R Finger0
+    400084: Soldier R Finger01
+    400086: Soldier R Finger02
+    400088: Soldier R Finger0Nub
+    400090: Soldier R Finger1
+    400092: Soldier R Finger11
+    400094: Soldier R Finger12
+    400096: Soldier R Finger1Nub
+    400098: Soldier R Finger2
+    400100: Soldier R Finger21
+    400102: Soldier R Finger22
+    400104: Soldier R Finger2Nub
+    400106: Soldier R Finger3
+    400108: Soldier R Finger31
+    400110: Soldier R Finger32
+    400112: Soldier R Finger3Nub
+    400114: Soldier R Finger4
+    400116: Soldier R Finger41
+    400118: Soldier R Finger42
+    400120: Soldier R Finger4Nub
+    400122: Soldier R Foot
+    400124: Soldier R Forearm
+    400126: Soldier R Hand
+    400128: Soldier R Thigh
+    400130: Soldier R Toe0
+    400132: Soldier R Toe0Nub
+    400134: Soldier R UpperArm
+    400136: Soldier Spine
+    400138: Soldier Spine1
+    400140: Soldier Spine2
+    400142: Soldier_mesh
+    2100000: 'Material #22'
+    2100002: No Name
+    2300000: SkinData_solder_mesh
+    3300000: SkinData_solder_mesh
+    4300000: Soldier_mesh
+    4300002: SkinData_solder_mesh
+    7400000: Take 001
+    9500000: //RootNode
+    13700000: Soldier_mesh
+    2186277476908879412: ImportLogs
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Take 001
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 599
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.0254
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

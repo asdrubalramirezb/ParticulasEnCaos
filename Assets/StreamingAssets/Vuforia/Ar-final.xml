@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="abejitas" size="6.000000 3.407917" />
+    <ImageTarget name="motorupdate2" size="6.000000 3.375000" />
+    <ImageTarget name="Arena2" size="6.000000 4.500000" />
+    <ImageTarget name="Arena1" size="6.000000 8.000000" />
+    <ImageTarget name="Updabejas" size="6.000000 4.500000" />
+    <ImageTarget name="Updleave" size="6.000000 4.500000" />
+    <ImageTarget name="Motor" size="6.000000 4.500000" />
+    <ImageTarget name="Abejas" size="6.000000 4.504178" />
+  </Tracking>
+</QCARConfig>
